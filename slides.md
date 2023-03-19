@@ -68,7 +68,7 @@ Propiedad estructural y propiedad de orden
 
 
 <div class="container flex justify-center items-center">
-  <img src="compTree.png" class="w-120">
+  <img src="/compTree.png" class="w-120">
 </div>
 
 ---
@@ -81,7 +81,7 @@ Max-Heap | Min-Heap
 - **Min Heap**: Los valores de los nodos son menores o iguales que los de sus hijos. El nodo raíz contiene el elemento mínimo.
 
 <div class="container flex justify-center items-center">
-  <img src="DeepinScreenshot_select-area_20230319113821.png" class="w-150">
+  <img src="/DeepinScreenshot_select-area_20230319113821.png" class="w-150">
 </div>
 
 ---
@@ -102,13 +102,13 @@ Para insertar un elemento en un heap binario, se agrega al final y se reorganiza
 
 <div class="flex flex-col">
   <div class="container flex justify-center">
-    <img class="absolute z-0 w-150" v-click src="row-1-column-1.png" alt="Imagen 1">
+    <img class="absolute z-0 w-150" v-click src="/row-1-column-1.png" alt="Imagen 1">
    </div>
   <div class="container flex justify-center">
-    <img class="absolute z-10 w-150" v-click src="row-2-column-1.png" alt="Imagen 2">
+    <img class="absolute z-10 w-150" v-click src="/row-2-column-1.png" alt="Imagen 2">
    </div>
   <div class="container flex justify-center">
-    <img class="absolute z-20 w-150" v-click src="row-3-column-1.png" alt="Imagen 3">
+    <img class="absolute z-20 w-150" v-click src="/row-3-column-1.png" alt="Imagen 3">
    </div>
 </div>
 
@@ -121,16 +121,16 @@ Para eliminar un elemento en un heap binario, se elimina el elemento máximo (o 
 
 <div class="flex flex-col">
   <div class="container flex justify-center">
-    <img class="absolute z-0 w-150" v-click src="DeepinScreenshot_select-area_20230319133108.png" alt="Imagen 1">
+    <img class="absolute z-0 w-150" v-click src="/DeepinScreenshot_select-area_20230319133108.png" alt="Imagen 1">
    </div>
   <div class="container flex justify-center">
-    <img class="absolute z-10 w-150" v-click src="DeepinScreenshot_select-area_20230319133140.png" alt="Imagen 2">
+    <img class="absolute z-10 w-150" v-click src="/DeepinScreenshot_select-area_20230319133140.png" alt="Imagen 2">
    </div>
   <div class="container flex justify-center">
-    <img class="absolute z-20 w-150" v-click src="DeepinScreenshot_select-area_20230319133209.png" alt="Imagen 3">
+    <img class="absolute z-20 w-150" v-click src="/DeepinScreenshot_select-area_20230319133209.png" alt="Imagen 3">
    </div>
    <div class="container flex justify-center">
-    <img class="absolute z-20 w-150" v-click src="DeepinScreenshot_select-area_20230319133243.png" alt="Imagen 4">
+    <img class="absolute z-20 w-150" v-click src="/DeepinScreenshot_select-area_20230319133243.png" alt="Imagen 4">
    </div>
 </div>
 
@@ -407,7 +407,7 @@ class: text-center
 # Heap + Tabla de hash
 
 <div class="container flex justify-center items-center">
-  <img v-click src="1_cY0Cga9s_jrNklMk0FI0uw.gif" class="w-120">
+  <img v-click src="/1_cY0Cga9s_jrNklMk0FI0uw.gif" class="w-120">
 </div>
 
 ---
