@@ -362,8 +362,8 @@ Implementación
 
 Un heap binario es una implementación popular y eficiente de una cola de prioridad. Veamos cómo se relacionan las operaciones principales de una cola de prioridad con las de un heap binario:
 
-- `insert`: Se corresponde con la operación `insert` del heap binario.
-- `delete`: Se corresponde con la operación `delete` (eliminar máximo/mínimo) del heap binario.
+- `enqueue`: Se corresponde con la operación `insert` del heap binario.
+- `dequeue`: Se corresponde con la operación `delete` (eliminar máximo/mínimo) del heap binario.
 - `peek`: Se corresponde con la operación `peek` del heap binario.
 <br><br>
 > ⚠️ Es normal la confusión entre cola de prioridad y heap binario, ya que ambos tiene metodos similares.
