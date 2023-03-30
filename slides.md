@@ -334,9 +334,9 @@ Una `cola de prioridad` es un TAD que permite almacenar elementos con una priori
 <br>
 Las operaciones principales en una cola de prioridad son:
 
-- `insert`: Inserta un elemento con una clave de prioridad.
-- `delete`: Elimina y retorna el elemento con la clave de prioridad más alta.
-- `peek`: Retorna el elemento con la clave de prioridad más alta sin eliminarlo.
+- `enqueue`: Inserta un elemento con una prioridad.
+- `dequeue`: Elimina y retorna el elemento con la prioridad más alta.
+- `peek`: Retorna el elemento con la prioridad más alta sin eliminarlo.
 
 ---
 
