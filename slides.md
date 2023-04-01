@@ -154,7 +154,7 @@ Esto permite a los heaps binarios realizar inserciones y eliminaciones de manera
 
 En la mayoría de los casos, el número de intercambios que se deben realizar es pequeño. La altura del árbol es `log_2(n)`, donde n es el número de nodos. Sin embargo, la probabilidad de que se necesiten `log_2(n)` intercambios es baja, ya que es más probable que el elemento que estamos insertando no tenga que recorrer todo el camino hasta la raíz.
 
-> **vease:** [Average Case Analysis of Heap Building by Repeated Insertion](https://web.archive.org/web/20160205023201/http://www.stats.ox.ac.uk/__data/assets/pdf_file/0015/4173/heapbuildjalg.pdf)
+> **véase:** [Average Case Analysis of Heap Building by Repeated Insertion](https://web.archive.org/web/20160205023201/http://www.stats.ox.ac.uk/__data/assets/pdf_file/0015/4173/heapbuildjalg.pdf)
 
 En términos más matemáticos, si analizamos el número de intercambios esperados en la inserción, resulta ser una serie geométrica que converge a una suma finita, lo que implica un tiempo promedio constante.
 
@@ -179,7 +179,6 @@ Los heaps binarios tienen varias aplicaciones en la informática, incluyendo:
 **Ventajas:**
 
 - Operaciones rápidas de inserción y eliminación.
-- Eficiente en el uso de memoria.
 - Implementación sencilla.
 
 **Desventajas:**
@@ -374,7 +373,6 @@ Un heap binario es una implementación popular y eficiente de una cola de priori
 👍
 
 - Las operaciones `insert` y `delete` tienen una complejidad de tiempo O(log n) (peor caso), lo que es más rápido que las listas ordenadas y no ordenadas.
-- El espacio requerido es O(n), que es más eficiente que las listas.
 - La implementación es sencilla y fácil de entender.
 
 ---
